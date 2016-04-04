@@ -39,7 +39,7 @@
       ".repository-content .discussion-timeline {" + // Issue body
         "margin-right:-160px;" +
         "padding-right:160px;" +
-        "width:100% !important;" +
+        "width:96% !important;" +
       "}" +
       ".repository-content .discussion-timeline .timeline-new-comment {" + // New Issue / issue comment form
         "max-width:100% !important;" +
